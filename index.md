@@ -29,3 +29,19 @@ A Windows Desktop application built with WPF to help field workers take maps off
 A cross platform Windows Desktop (WPF & UWP) application that works in both online and offline modes. Using an ArcGIS Online pre-configured map, users can collect data out in the filed and sync it with the cloud version. 
 
 [https://github.com/Esri/data-collection-dotnet](https://github.com/Esri/data-collection-dotnet)
+
+## Personal Projects
+
+These are apps I have built as pet projects on my own time. 
+
+### Help Me Move
+
+I built this app when I was looking to find where to move in the Portland area. It was also the app I showed during the Esri job interview. The app uses Esri tapestry data to determine best areas for someone to move based on some specified criteria. 
+
+[https://github.com/codergrl/HelpMeMoveRepo](https://github.com/codergrl/HelpMeMoveRepo)
+
+### Houston Traffic App
+
+A Windows Phone app I built to help navigate the insanity that is Houston traffic. I wanted something very simple that I could access with minimal interraction and that would show me incidents on highways. 
+
+[https://github.com/codergrl/WP7_traffic-app](https://github.com/codergrl/WP7_traffic-app)
