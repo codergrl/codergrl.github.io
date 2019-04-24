@@ -47,3 +47,20 @@ I built this app when I was looking to find where to move in the Portland area. 
 A Windows Phone app I built to help navigate the insanity that is Houston traffic. I wanted something very simple that I could access with minimal interraction and that would show me incidents on highways. 
 
 [https://github.com/codergrl/WP7_traffic-app](https://github.com/codergrl/WP7_traffic-app)
+
+## Presentations
+
+#### 2018 ACT-W Workshop
+
+A workshop catered to absolute beginners to get started working with the ArcGIS mapping platform
+
+[https://codergrl.github.io/presentations/2018-ACT-W-PDX/actwpdx/#/](https://codergrl.github.io/presentations/2018-ACT-W-PDX/actwpdx/#/)
+
+#### 2018 Cross Platform Development
+
+A short presentation that outlines the options available for cross platform development. This is a generic presentation but it does focus on options that work well with the Esri APIs
+
+[https://codergrl.github.io/presentations/2018-GeoDev-Meetup-December/meetup/index.html#/](https://codergrl.github.io/presentations/2018-GeoDev-Meetup-December/meetup/index.html#/)
+
+
+
