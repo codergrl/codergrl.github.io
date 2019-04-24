@@ -62,5 +62,16 @@ A short presentation that outlines the options available for cross platform deve
 
 [https://codergrl.github.io/presentations/2018-GeoDev-Meetup-December/meetup/index.html#/](https://codergrl.github.io/presentations/2018-GeoDev-Meetup-December/meetup/index.html#/)
 
+#### 2018 Geodev Hackerlab
+
+A workshop that I did together with my Esri colleague René Rubalcava catered to absolute beginners to get started working with the ArcGIS mapping platform
+
+[https://odoe.github.io/presentations/2018-GeoDev-Meetup-Portland/hackerlab/index.html#/](https://odoe.github.io/presentations/2018-GeoDev-Meetup-Portland/hackerlab/index.html#/)
+
+#### 2019 GIS CAMA Conference
+
+Workshop on all the developer options provided by Esri
+
+[https://codergrl.github.io/presentations/gis-cama-2019/gis-cama-2019/index.html#/](https://codergrl.github.io/presentations/gis-cama-2019/gis-cama-2019/index.html#/)
 
 
